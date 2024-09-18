@@ -77,7 +77,7 @@ When running the script, you will see a video feed with hand landmarks drawn on 
 - **Library Errors**: Verify that all required Python libraries are installed correctly.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 - This project utilizes MediaPipe and OpenCV for hand gesture tracking.
